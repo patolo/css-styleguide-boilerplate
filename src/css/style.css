@@ -1,0 +1,55 @@
+/*
+  #Buttons
+  Provides extra visual weight and identifies the primary action in a set of buttons.
+
+    <button class="button">Button Element</button>
+*/
+
+
+
+/*
+  Button with info.
+
+    <button class="button info">Button Info</button>
+*/
+
+
+
+/*
+  Button with curved.
+
+    <button class="button curved">Button curved</button>
+*/
+
+
+
+/*
+  Button with rounded.
+
+    <button class="button rounded">Button rounded</button>
+*/
+
+
+
+/*
+  #Paragraphs
+  Some explanations
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, tempora!</p>
+*/
+
+
+
+/*
+  Explanation with warning.
+
+    <p class="warning">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, tempora!</p>
+*/
+
+
+
+/*
+  Explanation with error.
+
+    <p class="error">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, tempora!</p>
+*/

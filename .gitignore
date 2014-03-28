@@ -1,0 +1,28 @@
+# Project build files
+/dist/
+/client/dist
+/.tmp/
+/package.tgz
+/cdn/
+
+# IDEA, WebStorm project settings
+/.idea/
+/*.iml
+
+# Could contain https-proxy from environment, with developer's username/password
+node_modules/
+npm-debug.log
+
+# Bower artifacts
+bower_components/
+
+# styleguide
+styleguide/
+
+# Vim tmp files
+*~*
+*.swp
+*.swo
+
+# Logs
+*.log
